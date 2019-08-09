@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"***ze_MindTree***"
+	{
+		"chi"		"** 树之魂**"
+	}
+	"***Map by XXMochiXXPohmian***"
+	{
+		"chi"		"**地图制作:XXMochiXXPohmian 地图翻译:結野アンナ**"
+	}
+	"*** 30 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 25 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 40 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 45 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 35 ***"
+	{
+		"chi"		"** **"
+	}
+	"<Mind Fruit>"
+	{
+		"chi"		">>>红色之果<<<"
+	}
+	"<The Minds Ego>"
+	{
+		"chi"		">>>低速激光<<<"
+	}
+	"<Super Ego>"
+	{
+		"chi"		">>>高速逆转<<<"
+	}
+	"<Mind Nightmare>"
+	{
+		"chi"		">>>梦魇之心<<<"
+	}
+	"<Death Drive>"
+	{
+		"chi"		">>>惊惧边缘<<<"
+	}
+	"<Fell In Love>"
+	{
+		"chi"		">>>爱之吸引<<<"
+	}
+	"< Barriers of The Mind >"
+	{
+		"chi"		">>>空间挤压<<<"
+	}
+	"< Defend >"
+	{
+		"chi"		">>>防守僵尸<<<"
+	}
+	"< Mind >"
+	{
+		"chi"		">>>魂<<<"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"85105"
+	}
+}
